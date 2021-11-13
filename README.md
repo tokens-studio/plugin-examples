@@ -6,3 +6,5 @@ Collection of starter templates for a Figma Tokens GitHub sync. The examples can
 [Multi theme, css variables](https://github.com/six7/figma-tokens-example-multi)
 
 [Multi theme, Tailwind](https://github.com/six7/figma-tokens-example-tailwindcss)
+
+[Multi theme, Stitches](https://github.com/six7/figma-tokens-example-stitches)
